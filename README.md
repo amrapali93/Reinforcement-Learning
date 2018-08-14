@@ -1,6 +1,6 @@
 # Reinforcement-Learning
 
-# Description of each project 
+
 # Jacks car rental problem using Dynamic programing: 
 A car inventory management system implemented using reinforcement learning techniques like dynamic programing and markoc decision process. The demand and supply varibles of the problem are asummed to have a Poison distribution. This code determines the best action (number of cars to move) given a particuar state of the enviornment (number of cars at each location). (This is an excercise from chapter 4 : Dynamic programing of Sutton and barto's book 'Reinforcement Learning: An introduction')
 
