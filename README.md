@@ -5,7 +5,7 @@
 A car inventory management system implemented using reinforcement learning techniques like dynamic programing and markov decision process. The demand and supply variables of the problem are asummed to have a Poison distribution. This code determines the best action (number of cars to move) given a particuar state of the enviornment (number of cars at each location). (This is an excercise from chapter 4 : Dynamic programing of Sutton and barto's book 'Reinforcement Learning: An introduction')
 
 # Tic Tac Toe (Advanced): 
-An implementation of Tic Tac Toe game using approximate value functions of reinforcement learning. This is an attempt at getting the agent to learn attack (start first) and defend (start second) policies using policy gradients and temporal difference 
+An implementation of Tic Tac Toe game using approximate value functions of reinforcement learning. This is an attempt at getting the agent to learn attack (start first) and defencw (start second) policies using policy gradients and temporal difference 
 
 
 # Tic Tac Toe (Simplified): 
